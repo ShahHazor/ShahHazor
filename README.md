@@ -1,3 +1,42 @@
+# 💫 About Me
+
+Hi, I'm **Shah Bukht Khan** 👋
+
+I'm a **Full Stack Developer** with **4+ years of experience** building scalable, high-performance web applications using the **MEAN Stack (MongoDB, Express.js, Angular, Node.js)**.
+
+Currently, I work as a **Mid-Level Developer** at a **UK-based FinTech company**, where I contribute to both frontend and backend development.
+
+## 🚀 What I Specialize In
+
+- 🔥 Angular Development (Angular, RxJS, NgRx, Angular Material)
+- 🔥 Server-Side Rendering (Angular Universal)
+- 🔥 Node.js & Express.js REST APIs
+- 🔥 MongoDB & MySQL
+- 🔥 AWS (S3, Lambda, SNS)
+- 🔥 Real-Time Applications (Socket.IO)
+- 🔥 Web Scraping (Cheerio, Axios)
+- 🔥 WordPress Development
+- 🔥 SuiteCRM Customization
+- 🔥 Third-Party API Integration
+
+## ✅ What I Deliver
+
+- Clean, maintainable, and scalable code
+- Responsive and modern UI/UX
+- RESTful APIs with proper authentication
+- SEO-friendly Angular applications using SSR
+- Third-party integrations & automation
+- Strong Git workflow using GitHub, GitLab & Bitbucket
+
+---
+
+# 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shah-bukht-khan/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahbukhtk@gmail.com)
+
+---
+
 <h2>💻 Tech Stack</h2>
 
 <table>
@@ -54,3 +93,4 @@
 </tr>
 
 </table>
+
