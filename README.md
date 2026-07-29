@@ -4,6 +4,7 @@ I am a Full Stack Developer with 4 years of hands-on experience building scalabl
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shah-bukht-khan/)
+
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shahbukhtk@gmail.com)
 
 # 💻 Tech Stack:
